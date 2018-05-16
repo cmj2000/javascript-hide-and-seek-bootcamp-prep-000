@@ -24,6 +24,6 @@ function deepestChild(){
   //var x = document.querySelector('#grand-node div div div div')
   
   var x = document.querySelector("div#grand-node")
-  console.log(x)
+  console.log(x.length)
  return x
 }
